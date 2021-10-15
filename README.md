@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abri-SLD
+- 👋 Hi, I’m Abri.
 - 👀 I’m interested in web developmenmt.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on ...
